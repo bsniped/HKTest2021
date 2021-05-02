@@ -65,7 +65,6 @@
 				D85FD9CC262743A7003D6F59 /* AppDelegate.swift */,
 				D85FD9CE262743A7003D6F59 /* SceneDelegate.swift */,
 				D85FD9D0262743A7003D6F59 /* ViewController.swift */,
-				D85FD9E626277FE3003D6F59 /* New Group */,
 				D85FD9D2262743A7003D6F59 /* Main.storyboard */,
 				D85FD9D5262743A7003D6F59 /* Assets.xcassets */,
 				D85FD9D7262743A7003D6F59 /* LaunchScreen.storyboard */,
@@ -80,13 +79,6 @@
 				D85FD9E32627443B003D6F59 /* HealthKit.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		D85FD9E626277FE3003D6F59 /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
