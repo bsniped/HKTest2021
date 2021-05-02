@@ -4,6 +4,12 @@
 //
 //  Created by Tyler Boston on 4/14/21.
 //
+
+// MARK: PIYA LOOK HERE
+    /// This is new code that will not cause a conflict with what you currently have.
+
+
+
 // MARK: Problems
     /// 1. Lines 95 & 97 have IBOutlets and can't get labelHR to update with heartrate result printed in debug console by pressing HRButton. HR Step 8: tries to modfiy the label but will only print out the query instance not result.
 
